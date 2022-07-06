@@ -1,0 +1,49 @@
+#menu{
+	background-color: Grey;
+}
+
+li{
+	padding:0.6em;
+	list-style: nome;
+	display: inline-block; 
+
+}
+a{
+	text-decoration: 
+	font-size:1.2em;
+	font-weight: bold;
+	padding: 0.5em;
+}
+
+a:link{
+	color: red;
+	background-color: yellow;
+	border-radius: 10px;
+
+}
+A:hover{
+	color: yellow;
+	background-color: red 
+
+
+}
+
+a:active{
+	color: green;
+	background-color: yellow;
+
+}
+a:visited{
+color:white;
+background-color: blue;
+}
+
+.bg{
+	background-image: url("fundo43.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+
+}
+
